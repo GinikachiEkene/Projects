@@ -3,7 +3,7 @@
 
 int main()
 {
-	int even[5];
+	int even[];
 	int num = 2;
 	int mult = 1;
 	int many; //Number of even numbers that is to be printed out.
